@@ -1,7 +1,12 @@
-* My replit: https://replit.com/join/vlqdyxmqdo-sarahmccoy
-* Main page: https://smccoyhw2.sarahmccoy.repl.co/
-* About page: https://smccoyhw2.sarahmccoy.repl.co/about
-* Magic 8 page: https://smccoyhw2.sarahmccoy.repl.co/magic8
+* FLASK 2:
+My replit: https://replit.com/join/bsqfdpojmz-sarahmccoy
+
+
+FLASK 1:
+My replit: https://replit.com/join/vlqdyxmqdo-sarahmccoy
+Main page: https://smccoyhw2.sarahmccoy.repl.co/
+About page: https://smccoyhw2.sarahmccoy.repl.co/about
+Magic 8 page: https://smccoyhw2.sarahmccoy.repl.co/magic8
 
 
 
